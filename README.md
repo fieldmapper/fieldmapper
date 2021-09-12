@@ -1,4 +1,24 @@
-### Hi there 👋
+# Yo! Field Mapper here...
+
+I'm `field_mapper` on the [Team Awareness Kit](https://tak.gov) Community (TAK) [Discord]( https://discord.gg/xTdEcpc) and [Reddit](https://www.reddit.com/r/ATAK/). A *Geographic Information System (GIS)* / *GEOspatial INTelligence (GEOINT)* guy - working with imagery acquired from manned <sup>(planes)</sup>, unmanned <sup>(UAV's/drones)</sup> and space-based <sup>(satellites)</sup> systems .
+
+For the past five or so years... I've been working in providing imagery solutions for TAK - mostly tile servers, and such. Onboarding and training end-users to use these systems together with TAK. Working with TAK for this long, I've also dabbled on TAKServer and other back-end stuff that works in conjunction with TAK.
+
+I am also a contributor to the [Android Team Awareness Kit Wikipedia page](https://en.wikipedia.org/wiki/Android_Team_Awareness_Kit) keeping the information current. (Well, trying to...) And the [openTAKpickList](https://github.com/FreeTAKTeam/openTAKpickList) - which is basically a merge of the existing [ATAK Reddit JumpStart Wiki](https://www.reddit.com/r/ATAK/wiki/index) and [CivTAK.org Wiki](https://wiki.civtak.org/index.php) on the existing openTAKpickList.
+
+Nothing much to see on my GitHub repos, it's just a collection of forks of project I follow. And a side project on VM'ing FreeTAKServer... though I stopped that because Docker. :D
+
+***
+
+- 🔭 I’m currently working on off-grid mesh communicators such as [Meshtastic](https://meshtastic.org/) and [goTenna](https://gotenna.com/)...
+- 🌱 I’m currently learning more [Python](https://www.python.org)...
+- 💬 Ask me anything about TAK on Reddit and on Discord. (**No** to **_haz pluginz_** and ***G-EGD imagery requests***.) 
+- 📫 How to reach me: Ping me on [Discord]( https://discord.gg/xTdEcpc) or [Reddit](https://www.reddit.com/r/ATAK/).
+- ⚡ Fun fact: I used to run the ATAK Community Server (aka. pubserver) which had **1,550 unique configuration file downloads** and has served **590 unique devices**. This ran for a year. And was used by developers to learn how [Cursor-on-Target](https://www.mitre.org/publications/technical-papers/cursorontarget-message-router-users-guide) works on a server by packet sniffing and other ingenious means. Jump starting the development of the numerous <u>open-source</u> TAK server flavors we see today.
+
+***
+
+[Buy me a coffee?](https://www.buymeacoffee.com/fieldmapper) 
 
 <!--
 **fieldmapper/fieldmapper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
